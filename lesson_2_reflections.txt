@@ -1,0 +1,3 @@
+
+What happends when you initialize a repository? Why do you need to do it?
+Git adds a folder called .git in order to start keeping track of all changes. otherwise It could be take it as a regular folder.

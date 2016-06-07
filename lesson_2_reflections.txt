@@ -1,3 +1,26 @@
 
-What happends when you initialize a repository? Why do you need to do it?
+--What happends when you initialize a repository? Why do you need to do it?
 Git adds a folder called .git in order to start keeping track of all changes. otherwise It could be take it as a regular folder.
+
+run git reset lesson_2_reflections.txt and the file will be removed from the staging area, but it will still be in your working directory.
+
+git diff  compare working directory with staging area
+git diff --staged  compare staging area with repository
+git reset --hard discard any changes in the working directory and staggin area
+
+--How can you use the staging area to make sure you have one commit per logical chance?
+in order to avoid commiting little pieces of the changes you can commit to the staging area and when it is fully implementned commit the solution
+in one single 
+
+git branch shows how many branches you have
+git branch "name_branch" creates a new branch
+git checkout name_branch moves you to the branch
+
+
+What are some situations when branches would be helpfull in keeping your history
+organized? how would branches help?
+will be organized if I only work in a branch instead of the master when every
+team member could commit changes. 
+
+git log --graph --oneline master coins::
+visual representation of the commit history is 

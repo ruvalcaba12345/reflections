@@ -5,3 +5,10 @@ to keep it safe server, available to share or collaborate with other teams
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote 
 repository?
 to make sure only push changes when you are sure the code works
+
+
+Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+Fork is a copy of another repo into your own repo
+clone is a copy of your repo into your local environment
+branch is a tag or a repo in your local environment

@@ -15,3 +15,6 @@ would you use one instead of another?
 Fork is a copy of another repo into your own repo
 clone is a copy of your repo into your local environment
 branch is a tag or a repo in your local environment
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+so not to fuck up what is working good on master.

@@ -6,6 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 repository?
 to make sure only push changes when you are sure the code works
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+subversion. same
+
 
 Describe the differences between forks, clones, and branches. When
 would you use one instead of another?
